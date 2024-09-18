@@ -1,0 +1,9 @@
+name: SkBeezP
+version: '1.0'
+main: com.maybeez.skBeezP.SkBeezP
+api-version: '1.21'
+prefix: FlowerGens
+load: STARTUP
+authors: [ Jackwith ]
+description: The cheapest gencore on the market
+website: https://flowergens.jacksmcserver.com
